@@ -16,3 +16,5 @@ sentiment as Positive, Negative, or Neutral.
    uvicorn backend.main:app --reload
 4. Start frontend:
    streamlit run frontend/app.py
+   <img width="609" height="670" alt="image" src="https://github.com/user-attachments/assets/df1b6e69-e816-41ee-b9e0-ad9d14c3b453" />
+
